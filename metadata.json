@@ -1,0 +1,6 @@
+{
+  "name": "Adaptador de Atividades Neurodivergentes",
+  "description": "Ferramenta para educadores adaptarem atividades pedagógicas para diferentes neurodivergências com armazenamento local seguro e recursos táteis e visuais de acessibilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
